@@ -1,0 +1,11 @@
+# requirements.txt
+tensorflow>=2.15
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+jupyter
+ipykernel
+tqdm

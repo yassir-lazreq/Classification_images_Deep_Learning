@@ -1,0 +1,24 @@
+# Python environments
+venv/
+.venv/
+env/
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets and archives
+data/
+Intel_Image_Classification/
+*.zip
+
+# Trained model artifacts
+models/*.keras
+models/*.h5
+
+# Operating-system files
+.DS_Store
+Thumbs.db
